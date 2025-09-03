@@ -1,4 +1,6 @@
-# Proxmox Service Tracker  
+!!!NOTE: Don’t worry, this will also be active and working in WemX v3 (the new WemX) on release day. !!!  As wemx v3 coming before end of this year 
+
+# Proxmox Service Tracker Public -- 
 
 This repository allows users to suggest **features** they would like to see in the Proxmox service.  
 
