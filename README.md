@@ -1,7 +1,7 @@
 # 🚀 Proxmox Service Tracker (Public)
 
-![Beta] coming soon 
-![WemX v3 Ready] Note: No need to worry — all Proxmox service features will also be fully supported in WemX v3 (launching before the end of this year).
+![public Beta] Proxmox Service v2 coming soon 
+NOTE WHEN WEMX V3 comes it will be ![WemX v3 Ready] Note: No need to worry — all Proxmox service features will also be fully supported in WemX v3 (launching before the end of this year).
 
 ---
 
