@@ -19,3 +19,11 @@ This repository is for users to suggest **features** they would like to see in t
 - Clone VMs with full template support.  
 - Real-time resource monitoring.  
 - Basic resource allocation management.  
+
+---
+
+## Planned Features
+- Container (LXC) management *(currently in testing)*  
+- Support for multiple Proxmox nodes  
+- Advanced backup & snapshot system  
+- High Availability (HA) cluster support  
