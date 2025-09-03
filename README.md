@@ -1,6 +1,8 @@
 # Proxmox Service Tracker  
 
-This repository is for users to suggest **features** they would like to see in the Proxmox service.  
+This repository allows users to suggest **features** they would like to see in the Proxmox service.  
+
+All latest updates to the service will be publicly available on the Proxmox service page on WemX. You can update via the WemX admin panel or visit [GitHub](https://github.com/WemXPro/service-proxmox).  
 
 👉 [Submit a Feature Request](https://github.com/EWANZO101/proxmoxservice-tracker/issues/new)  
 
@@ -11,9 +13,9 @@ This repository is for users to suggest **features** they would like to see in t
 ### VM Creation
 - Create VMs directly from an ISO.  
 - Post-install script support:  
-  - Run custom commands after the account is created.  
+  - Run custom commands after the VM is created.  
   - Automatically change the VM password.  
-  - Clean and organized editor with a **VS Code-like feel** for easier scripting and management.  
+  - Clean, organized editor with a **VS Code-like feel** for easier scripting and management.  
 
 ### VM Management
 - Clone VMs with full template support.  
