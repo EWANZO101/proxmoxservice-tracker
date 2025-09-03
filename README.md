@@ -2,7 +2,8 @@
 
 This repository allows users to suggest **features** they would like to see in the Proxmox service.  
 
-All latest updates to the service will be publicly available on the Proxmox service page on WemX. You can update via the WemX admin panel or visit [GitHub](https://github.com/WemXPro/service-proxmox).  
+All the latest updates to the service will be publicly available on the Proxmox Service page on WemX. You can update via the WemX admin panel or visit [GitHub](https://github.com/WemXPro/service-proxmox).  
+!!!!!!!!!!!!**v2 will enter public beta on 17/09/2025 (European date format).** !!!!!!!!
 
 👉 [Submit a Feature Request](https://github.com/EWANZO101/proxmoxservice-tracker/issues/new)  
 
